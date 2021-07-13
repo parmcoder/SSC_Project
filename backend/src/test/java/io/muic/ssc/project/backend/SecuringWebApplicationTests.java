@@ -1,4 +1,4 @@
-package com.example.securingweb;
+package io.muic.ssc.project.backend;
 
 import org.junit.jupiter.api.Test;
 
